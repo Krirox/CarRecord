@@ -1,6 +1,6 @@
 ##CarRecord
 
-CarRecord is a project that stores car record and has records
+CarRecord is a project that stores car record and has records that
 
 
 
